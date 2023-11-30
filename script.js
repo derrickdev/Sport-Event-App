@@ -78,7 +78,7 @@ loadingDiv()
 		// console.log(eventData.teams.away.logo);
 		// console.log(eventData.teams.home.name);
 		// console.log(eventData.teams.home.logo);
-    // const boxId = eventData.fixture.id;
+     const boxId = eventData.fixture.id;
 
     // Create a div element
 const eventBox = document.createElement('div');
